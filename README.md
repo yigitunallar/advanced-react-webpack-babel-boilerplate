@@ -16,11 +16,13 @@
 - ESLint + Prettier
 - DIY Add-Ons
 
-Minimal React Webpack Babel Setup
-Installation
+## Installation
 
-git clone git@github.com:rwieruch/advanced-react-webpack-babel-setup.git
-cd advanced-react-webpack-babel-setup
+```
+cd advanced-react-webpack-babel-boilerplate
 npm install
 npm start
 visit http://localhost:8080/
+```
+
+Happy hacking!
