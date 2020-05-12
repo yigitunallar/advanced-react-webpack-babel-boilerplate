@@ -22,7 +22,7 @@
 cd advanced-react-webpack-babel-boilerplate
 npm install
 npm start
-visit http://localhost:8080/
 ```
+visit http://localhost:8080/
 
 Happy hacking!
